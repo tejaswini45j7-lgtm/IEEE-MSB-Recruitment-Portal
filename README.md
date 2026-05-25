@@ -31,7 +31,7 @@ This website serves as my **very first web development project**, built to combi
 
 ---
 
-## 🛠️ Tech Stack & Concepts Applied
+## 🛠️ Tech Used & Concepts Applied
 
 * **Markup Layer:** Semantic HTML5 layout tags (`<header>`, `<nav>`, `<section>`, `<footer>`).
 * **Presentation Layer:** CSS3 properties including `flex-wrap`, custom keyframe triggers, layer transformations, and absolute/relative positioning frameworks.
